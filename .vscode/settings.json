@@ -1,0 +1,22 @@
+{
+    "circleci.persistedProjectSelection": [],
+    "workbench.colorTheme": "Horizon Legacy Bold",
+    "workbench.editorAssociations": {
+        "*.json": "json",
+        "*.yaml": "yaml"
+    },
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.visible": false,
+    "workbench.view.alwaysShowHeader": false,
+    "workbench.view.alwaysShowActions": false,
+    "editor.fontSize": 17,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "workbench.settings.enableNaturalLanguageSearch": true,
+
+}
